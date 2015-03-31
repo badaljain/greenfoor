@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BurgerDecorator()
+comment1.params=burger2
+comment1.target=BurgerDecorator(Burger)
+comment2.params=
+comment2.target=double\ getCost()
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment4.params=
+comment4.target=void\ printDescription()
+comment5.params=c
+comment5.target=void\ addChild(Component)
+comment6.params=c
+comment6.target=void\ removeChild(Component)
+comment7.params=i
+comment7.target=Component\ getChild(int)
+numComments=8
